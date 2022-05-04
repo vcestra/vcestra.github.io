@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "60c600f6f4d009f559de4b2fb521eb81",
+  "assets/AssetManifest.json": "3abbfbef4a47dae4add847fd6d8fbee4",
 "assets/assets/android.png": "ea7044bcf939116c5e7aa3ca54e3363a",
 "assets/assets/avatar.png": "186f231b22f6099fc86898a383d36cd0",
 "assets/assets/brand1.png": "f3a3a0de79048e1f14aac62ec76609b8",
@@ -22,6 +22,7 @@ const RESOURCES = {
 "assets/assets/person.png": "5b6ba176416812aa5448c6704d31caa0",
 "assets/assets/person_small.png": "6f780d058150543096d7bd3060db4ac4",
 "assets/assets/phone.png": "45903a1ffa9ede882171aca9f71c4c29",
+"assets/assets/profile.jpg": "ab4419fe4cec8cfc86fd4592e61c2a1e",
 "assets/assets/promote.png": "2bd8adcad79a4ebb80888d1a0583b3c4",
 "assets/assets/quote.png": "1a0aa9a06293ac5689bc32012e0e13e6",
 "assets/assets/whatsapp.png": "426617ad28567da23a2346566d84b5a6",
@@ -56,10 +57,10 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "7ba0f8b21735c26b1a3add336d6076f3",
-"/": "7ba0f8b21735c26b1a3add336d6076f3",
+"index.html": "47fddf95adfa1fb6daee653f3f62c1ef",
+"/": "47fddf95adfa1fb6daee653f3f62c1ef",
 "loader.css": "f61841a48de5b79316184d950976284a",
-"main.dart.js": "078f39af70c854f7e0d4803a400ccabc",
+"main.dart.js": "6c40d059275e3fded4252cb209bed520",
 "manifest.json": "33f800ebfef064613f8dec323b266c5b",
 "version.json": "bd341ba74d38c530da636604a427deda"
 };

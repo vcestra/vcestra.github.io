@@ -57528,7 +57528,7 @@ return A.bm(s,new A.iZ(this.t5(b.K(t.w).f.a.a*0.8),q,r,s),B.k,s,s,s,s,s,s,s,s,s,
 t5(a){return A.ij(new A.lD(new A.Zs(a),null),null,null)}}
 A.Zs.prototype={
 $2(a,b){var s,r,q,p,o,n,m=null,l=this.a,k=t.w,j=a.K(k).f.a.a<800?B.aE:B.aj,i=a.K(k).f.a.a<800?0:2
-i=A.eV(A.abg(new A.kT("assets/avatar.png",m,m),200),i)
+i=A.eV(A.abg(new A.kT("assets/profile.jpg",m,m),200),i)
 s=A.c1(m,m,50)
 k=a.K(k).f.a.a<800?0:4
 r=A.dA("SKILLS",A.hr(B.i,28,B.a4,1.3),m,m)
@@ -61951,7 +61951,7 @@ q($,"awg","ahH",()=>new A.Nz())
 s($,"auE","a9I",()=>new A.x())
 r($,"aoJ","agI",()=>new A.TS($.a9I()))
 q($,"awi","N1",()=>{var p,o,n=null,m=J.a7K(5,A.P("zR*"))
-for(p=t._,o=0;o<5;++o)m[o]=new A.zR(A.bm(n,A.l8(A.b([A.dA("SOFTWARE DEVELOPER",A.hr(B.aV,16,B.a4,n),n,n),A.c1(n,18,n),A.dA("VINCENZO\nCESTRA",A.hr(B.i,40,B.a4,1.3),n,n),A.c1(n,10,n),A.dA("Backend and mobile software developer, based in Rome",A.f8(n,n,B.el,n,n,n,n,n,n,n,n,15,n,n,n,1,!0,n,n,n,n,n,n,n,n),n,n),A.c1(n,10,n)],p),B.b7,B.dD,B.q8),B.k,n,n,n,n,n,n,n,n,n,n),A.abg(A.akV("assets/avatar.png",n,n),200))
+for(p=t._,o=0;o<5;++o)m[o]=new A.zR(A.bm(n,A.l8(A.b([A.dA("SOFTWARE DEVELOPER",A.hr(B.aV,16,B.a4,n),n,n),A.c1(n,18,n),A.dA("VINCENZO\nCESTRA",A.hr(B.i,40,B.a4,1.3),n,n),A.c1(n,10,n),A.dA("Backend and mobile software developer, based in Rome",A.f8(n,n,B.el,n,n,n,n,n,n,n,n,15,n,n,n,1,!0,n,n,n,n,n,n,n,n),n,n),A.c1(n,10,n)],p),B.b7,B.dD,B.q8),B.k,n,n,n,n,n,n,n,n,n,n),A.abg(A.akV("assets/profile.jpg",n,n),200))
 return m})
 q($,"awl","a6U",()=>A.b([A.a7F(B.xS,new A.a67(),"GITHUB"),A.a7F(B.xR,new A.a68(),"LINKEDIN"),A.a7F(B.xT,new A.a69(),"PLAY STORE")],A.P("p<nT*>")))
 q($,"awv","ahL",()=>A.b([A.Fn(80,"Dart"),A.Fn(50,"Javascript"),A.Fn(90,"Java"),A.Fn(90,"Spring"),A.Fn(30,"Python")],A.P("p<pf*>")))
